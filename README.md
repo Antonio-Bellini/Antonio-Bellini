@@ -35,5 +35,3 @@ Here's some informationa about my skills and my tools
 <a href="https://github.com/Antonio-Bellini/Antonio-Bellini">
   <img align="center" src="https://github-readme-stats.gyro7.vercel.app/api?username=Antonio-Bellini&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=radical">
 </a>
-
----
