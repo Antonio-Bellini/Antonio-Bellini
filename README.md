@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Welcome to my GitHub account, 
+Welcome to my GitHub account,
+I'm a student of computer science at IIS "A. Avogadro" in Turin.
 
 Here's some informationa about my skills and my tools
 
