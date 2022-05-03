@@ -2,6 +2,7 @@
 
 Welcome to my GitHub account, 
 
+Here's some informationa about my skills and my tools
 
 <h1 align="center">Skills</h1>
 <div align="center">
