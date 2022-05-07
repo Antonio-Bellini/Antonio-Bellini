@@ -5,7 +5,11 @@ I'm Antonio, 16yo and student of computer science at IIS "A. Avogadro" in Turin.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div>  
+  
+Here's some informationa about my skills and my tools
+
+<h1 align="center">Skills</h1>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -25,11 +29,6 @@ I'm Antonio, 16yo and student of computer science at IIS "A. Avogadro" in Turin.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-Here's some informationa about my skills and my tools
-
-<h1 align="center">Skills</h1>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   
   
   
