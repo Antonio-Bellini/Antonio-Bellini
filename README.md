@@ -3,8 +3,9 @@ I'm Antonio, 16yo student of computer science at IIS "A. Avogadro" in Turin.
 
 ---
 
-### :hammer_and_wrench: Languages and tools I use :
+### 🛠️ Languages and tools :
 <div align="center">
+  ### 🛠️ Languages and tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
