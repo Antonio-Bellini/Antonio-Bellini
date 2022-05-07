@@ -1,11 +1,9 @@
 ### :writing_hand: About me :
-I'm Antonio, 16yo and student of computer science at IIS "A. Avogadro" in Turin.
-
-Here's some informationa about my skills and my tools
+I'm Antonio, 16yo student of computer science at IIS "A. Avogadro" in Turin.
 
 ---
 
-### :hammer_and_wrench: Languages and tools :
+### :hammer_and_wrench: Languages and tools I use :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -22,7 +20,7 @@ Here's some informationa about my skills and my tools
 
 ---
 
-### :fire: My Stats :
+### :fire: My stats :
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Antonio-Bellini"/></a>
 <br>
 <br>
