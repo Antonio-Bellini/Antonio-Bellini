@@ -11,7 +11,7 @@ Here's some informationa about my skills and my tools
 
 ### :hammer_and_wrench: Languages and tools :
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
@@ -19,9 +19,9 @@ Here's some informationa about my skills and my tools
 </div>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscodd" width="40" height="40"/>&nbsp; 
-  <img src="https://img.shields.io/static/v1?&label=Browser&message=Edge&color=blue&logo=firefox&style=for-the-badge&logoColor=yellow">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp; &nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;&nbsp;&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="40" height
 </div>
 
 ---
