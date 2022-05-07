@@ -3,6 +3,10 @@
 Welcome to my GitHub account,
 I'm Antonio, 16yo and student of computer science at IIS "A. Avogadro" in Turin.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 Here's some informationa about my skills and my tools
 
 <h1 align="center">Skills</h1>
