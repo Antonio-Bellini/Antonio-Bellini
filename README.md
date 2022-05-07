@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-Welcome to my GitHub account,
 I'm Antonio, 16yo and student of computer science at IIS "A. Avogadro" in Turin.
   
 Here's some informationa about my skills and my tools
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -14,7 +13,7 @@ Here's some informationa about my skills and my tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+### :wrench: Tool :
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=OS&message=Windows &color=blue&logo=artix-linux&style=for-the-badge&logoColor=white">
   <br>
