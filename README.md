@@ -22,8 +22,8 @@ Here's some informationa about my skills and my tools
 
 ### :wrench: Tools :
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=OS&message=Windows &color=blue&logo=artix-linux&style=for-the-badge&logoColor=white">
-  <br>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/windows/windows-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  <br>
   <img src="https://img.shields.io/static/v1?label=Shell&message=CMD&color=black&logo=powershell&style=for-the-badge&logoColor=white">
   <br>
   <img src="https://img.shields.io/static/v1?&label=EDITOR&message=VS CODE&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
