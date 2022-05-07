@@ -29,7 +29,7 @@ Here's some informationa about my skills and my tools
 ---
 
 ### :fire: My Stats :
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bellini&hide_border=true&theme=radical"/></a>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Antonio-Bellini"/></a>
 <a href="https://github.com/Antonio-Bellini/Antonio-Bellini">
   <img align="center" src="https://github-readme-stats.gyro7.vercel.app/api?username=Antonio-Bellini&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=radical">
 </a>
