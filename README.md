@@ -27,7 +27,7 @@ Here's some informationa about my skills and my tools
 ---
 
 ### :fire: My Stats :
-<img align="center" src="https://github-readme-commits-stats.herokuapp.com/?user=Antonio-Bellini"/></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Antonio-Bellini"/></a>
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bellini)](https://github.com/anuraghazra/github-readme-stats)
