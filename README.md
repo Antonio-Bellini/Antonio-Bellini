@@ -20,7 +20,7 @@ Here's some informationa about my skills and my tools
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp; 
-  <img src="https://img.shields.io/static/v1?&label=EDITOR&message=VS CODE&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscodd" width="40" height="40"/>&nbsp; 
   <img src="https://img.shields.io/static/v1?&label=Browser&message=Edge&color=blue&logo=firefox&style=for-the-badge&logoColor=yellow">
 </div>
 
