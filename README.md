@@ -19,6 +19,7 @@ Here's some informationa about my skills and my tools
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/static/v1?&label=OS&message=Windows&color=blue&logo=windows&style=for-the-badge&logoColor=light%20blue">
   <img src="https://img.shields.io/static/v1?&label=EDITOR&message=VS CODE&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
   <img src="https://img.shields.io/static/v1?&label=Browser&message=Edge&color=blue&logo=firefox&style=for-the-badge&logoColor=yellow">
 </div>
