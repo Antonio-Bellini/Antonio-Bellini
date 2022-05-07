@@ -1,4 +1,4 @@
-### :shake_hand: Hi there
+### 👋 Hi there
 
 --- 
 
