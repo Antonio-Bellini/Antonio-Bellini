@@ -15,7 +15,7 @@ Here's some informationa about my skills and my tools
 
 ---
 
-### :wrench: Tool :
+### :wrench: Tools :
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=OS&message=Windows &color=blue&logo=artix-linux&style=for-the-badge&logoColor=white">
   <br>
