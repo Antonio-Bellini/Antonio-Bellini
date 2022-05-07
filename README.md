@@ -30,9 +30,7 @@ Here's some informationa about my skills and my tools
 </div>
 
 ---
-
-<h1 align="center">My STATS<h1>
-
+### :fire: My Stats :
 <a href="https://github.com/Ant00o">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bellini&hide_border=true&theme=radical"/></a>
 <a href="https://github.com/Antonio-Bellini/Antonio-Bellini">
