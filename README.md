@@ -21,7 +21,5 @@ I'm Antonio, 16yo student of computer science at IIS "A. Avogadro" in Turin.
 ---
 
 ### :fire: My stats :
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Antonio-Bellini"/></a>
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bellini)](https://github.com/anuraghazra/github-readme-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Antonio-Bellini&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bellini)
