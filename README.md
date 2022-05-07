@@ -13,6 +13,8 @@ Here's some informationa about my skills and my tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
 ### :wrench: Tool :
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=OS&message=Windows &color=blue&logo=artix-linux&style=for-the-badge&logoColor=white">
@@ -25,8 +27,8 @@ Here's some informationa about my skills and my tools
 </div>
 
 ---
+
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Antonio-Bellini
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bellini&hide_border=true&theme=radical"/></a>
 <a href="https://github.com/Antonio-Bellini/Antonio-Bellini">
   <img align="center" src="https://github-readme-stats.gyro7.vercel.app/api?username=Antonio-Bellini&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=radical">
