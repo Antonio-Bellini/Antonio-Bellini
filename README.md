@@ -7,6 +7,8 @@ I'm Antonio, 16yo and student of computer science at IIS "A. Avogadro" in Turin.
   
 Here's some informationa about my skills and my tools
 
+---
+
 ### :hammer_and_wrench: Languages :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
