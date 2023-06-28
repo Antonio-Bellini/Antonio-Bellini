@@ -1,5 +1,5 @@
 ### :writing_hand: About me :
-I'm Antonio, 17yo student of computer science at IIS "A. Avogadro" in Turin.
+I'm Antonio, 18yo student of computer science at IIS "A. Avogadro" in Turin.
 
 ---
 
